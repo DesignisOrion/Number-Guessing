@@ -1,6 +1,6 @@
 # This is a guess the number game
 
-import random
+import random  # importing the random module
 print('Hello. What is your name?')
 name = input()
 secretNumber = random.randint(1, 20)
