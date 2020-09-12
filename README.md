@@ -1,11 +1,15 @@
 # Number Guessing Game
 
-**Version 1.0.0 **
+### About 
+This program allows you to play the number guessing game via terminal. Enjoy!
 
-This program is a game called "Number Guessing".
+### Technologies Used:
+- Python 3
+- random module
 
-This game allows you to enter your name then ask to guess a number randomly chosen by the computer. It will give you hints as well to guide you closer to the correct answer, however you only have 6 tries. Enjoy.
+### What I learned:
+This game allows you to enter your name then ask to guess a number randomly chosen by the computer. It will give you hints as well to guide you closer to the correct answer, however you only have 6 tries. I was able to learn about the Random module and how it works within the function. Enjoy. 
 
-## License & copyright
-
-© 2020 Orion F. / www.DesignIsOrion.com / Software Enginner
+# Author: 
+Orion F.
+www.DesignIsOrion.com
